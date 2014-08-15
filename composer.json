@@ -2,12 +2,6 @@
     "name": "vipsoft/hhvm-ext-geoip",
     "description": "GeoIP extension for HipHop VM (HHVM HNI DSO)",
     "type": "extension",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/kmiller68/debian-composer-plugin"
-        }
-    ],
     "require": {
         "hhvm/debian-composer-plugin": "dev-master"
     },
